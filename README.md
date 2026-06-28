@@ -1,2 +1,11 @@
-# my-first-project
-my first github project
+# My First Project
+
+Hello! I'm Mahesh.
+
+## About Me
+- 🎓 B.Tech Student
+- 💻 Learning Java, PHP, HTML, CSS, JavaScript
+- 🌱 Currently learning Git & GitHub
+
+## My Goal
+To become a full-stack developer.
